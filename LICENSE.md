@@ -7,9 +7,9 @@ The Software that bears this License was created by: Shane R. Carberry Mogan and
 
 If you use this resource, cite:
 
-1) Carberry Mogan, S.R., Tucker, O.J., Johnson, R.E., Vorburger, A., Galli, A., Marchand, B., Tafuni, A., Kumar, S., Sahin, I. and Sreenivasan, K.R., 2021. A tenuous, collisional atmosphere on Callisto. Icarus, 368, p.114597.
+1) Carberry Mogan, S.R., Tucker, O.J., Johnson, R.E., Vorburger, A., Galli, A., Marchand, B., Tafuni, A., Kumar, S., Sahin, I. and Sreenivasan, K.R., 2021. A tenuous, collisional atmosphere on Callisto. Icarus, 368, p.114597. DOI: 10.1016/j.icarus.2021.114597
 
-2) Carberry Mogan, S.R., Tucker, O.J., Johnson, R.E., Roth, L., Alday, J., Vorburger, A., Wurz, P., Galli, A., Smith, H.T., Marchand, B. and Oza, A.V., 2022. Callisto's atmosphere: First evidence for H2 and constraints on H2O. Journal of Geophysical Research: Planets, 127(11), p.e2022JE007294.
+2) Carberry Mogan, S.R., Tucker, O.J., Johnson, R.E., Roth, L., Alday, J., Vorburger, A., Wurz, P., Galli, A., Smith, H.T., Marchand, B. and Oza, A.V., 2022. Callisto's atmosphere: First evidence for H2 and constraints on H2O. Journal of Geophysical Research: Planets, 127(11), p.e2022JE007294. DOI: 10.1029/2022JE007294
 
 Make the source code of your modifications available to the copyright holder or other authorized party of the Software under the terms of this License by depositing any such modifications in the Software repository located here: 
 
